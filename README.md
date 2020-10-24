@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi I'm Magicks
 
-<!--
-**Mehgugs/Mehgugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 I'm a mathematician from the UK,
 
-Here are some ideas to get you started:
+😄 I prefer he/him pronouns,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤯 Ask me about metaprogramming in Lua!
+
+😖 Currently learning more about web development.
+
+Find me @:
+
+🤡 [discord](https://discord.com/users/92271879783469056)
